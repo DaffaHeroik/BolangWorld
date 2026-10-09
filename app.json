@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "LOKAVERSE",
+    "slug": "lokaverse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "lokaverse",
+    "web": {
+      "bundler": "metro",
+      "output": "dist",
+      "target": "web",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
